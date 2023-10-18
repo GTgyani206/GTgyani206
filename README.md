@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![An image of @gtgyani206's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gtgyani206)](https://holopin.io/@gtgyani206)
+
+
 <!--
 **GTgyani206/GTgyani206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
