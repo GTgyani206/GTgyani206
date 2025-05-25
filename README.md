@@ -9,12 +9,12 @@
 <div align="center">
 
 ```
-  ██████╗██╗   ██╗ █████╗ ███╗   ██╗███████╗███╗   ██████╗  █████╗ 
- ██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝████╗  ██╔══██╗██╔══██╗
- ██║  ███╗╚████╔╝ ███████║██╔██╗ ██║█████╗  ██╔██╗ ██║  ██║███████║
- ██║   ██║ ╚██╔╝  ██╔══██║██║╚██╗██║██╔══╝  ██║╚██╗██║  ██║██╔══██║
- ╚██████╔╝  ██║   ██║  ██║██║ ╚████║███████╗██║ ╚██████╔╝██║  ██║
-  ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═════╝ ╚═╝  ╚═╝
+ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
+██╔════╝ ╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+██║  ███╗ ╚████╔╝ ███████║██╔██╗ ██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+██║   ██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+╚██████╔╝   ██║   ██║  ██║██║ ╚████║███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 </div>
@@ -22,7 +22,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/COLLEGE-VIT%20INDIA-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/LOCATION-VIT%20INDIA-00FF41?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00FF41?style=for-the-badge&logoColor=black" />
 
 </div>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,rust,nextjs,solidity,nodejs,python,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,mongodb,git&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,docker,linux,vscode,figma&theme=dark" />
 
 </div>
@@ -84,7 +84,7 @@
 
 ```javascript
 const gyanendra = {
-  code: ["JavaScript", "Rust", "Python", "Solidity"],
+  code: ["JavaScript", "TypeScript", "Python", "C++"],
   askMeAbout: ["Web Dev", "AI/ML", "Open Source"],
   currentFocus: "Building scalable React applications",
   funFact: "I debug with console.log() and I'm proud of it!"
