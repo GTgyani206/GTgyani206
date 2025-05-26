@@ -22,7 +22,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/LOCATION-VIT%20INDIA-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/LOCATION-%20INDIA-00FF41?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00FF41?style=for-the-badge&logoColor=black" />
 
 </div>
